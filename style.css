@@ -1,0 +1,46 @@
+body{
+  font-family:sans-serif;
+  line-height:1.4;
+  font-size:16px;
+  border:5px solid #444;
+}
+h2{
+  text-transform:uppercase;
+  text-align:center;
+  background-color:#f7f7f7;
+  font-size:22px;
+}
+.price{
+  font-size:24px;
+}
+.free{
+  color:#777;;
+  text-transform:uppercase;
+  font-size:12px;
+  font-weight: bold;
+}
+.squre{
+  list-style:square;
+}
+h3{
+  text-transform: uppercase;
+  font-size:18px;
+}
+a:any-link, a:visited{
+  color:black;
+}
+a:hover, a:active{
+  text-decoration: none;
+}
+button{
+  font-size:18px;
+  text-transform: uppercase;
+  color:white;
+  background-color: black;
+  border:none;
+  cursor: pointer;
+}
+button:hover{
+  color:black;
+  background-color: white;
+}
